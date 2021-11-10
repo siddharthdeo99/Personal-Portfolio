@@ -1,12 +1,16 @@
 ---
 date: '2016-08-01'
-title: 'UNDER DEV'
+title: 'RealTime Covid Tracker World Map'
 github: ''
-external: ''
+external: 'https://covid19-world.netlify.app/'
 tech:
-  - React
+  - HTML
   - CSS
+  - JavaScript
+  - React
+  - RestApi
+  
 showInProjects: true
 ---
 
-UNDER DEV UNDER DEV UNDER DEV UNDER DEV UNDER DEVUNDER DEV UNDER DEV UNDER DEV UNDER DEV UNDER DEV UNDER DEV UNDER DEV UNDER DEV 
+Deployed a Real-Time coronavirus tracking website that fetches the real-time data from a Rest API, and it is built on HTML, CSS, Javascript, React.
