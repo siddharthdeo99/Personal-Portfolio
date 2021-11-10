@@ -5,7 +5,7 @@ module.exports = {
     title: 'Siddharth lal deo',
     description:
       'I’m a software developer, a computer science undergraduate passionate about Artificial Intelligence, Machine learning, Cyber Security.',
-    siteUrl: 'https://github.com/siddharthdeo99', // No trailing slash allowed!
+    siteUrl: 'https://www.linkedin.com/in/siddharth-lal-deo/', // No trailing slash allowed!
     image: '', // Path to your image you placed in the 'static' folder
     twitterUsername: '@Siddharthlaldeo',
   },
