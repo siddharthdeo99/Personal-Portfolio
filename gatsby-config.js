@@ -5,7 +5,7 @@ module.exports = {
     title: 'Siddharth lal deo',
     description:
       'I’m a software developer, a computer science undergraduate passionate about Artificial Intelligence, Machine learning, Cyber Security.',
-    siteUrl: '#', // No trailing slash allowed!
+    siteUrl: 'https://github.com/siddharthdeo99', // No trailing slash allowed!
     image: '', // Path to your image you placed in the 'static' folder
     twitterUsername: '@Siddharthlaldeo',
   },
@@ -152,7 +152,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: 'UA-45666519-2',
+        trackingId: 'UA-88294651-1',
       },
     },
   ],
